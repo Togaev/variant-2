@@ -5,6 +5,8 @@ import java.io.InputStreamReader;
 /**
  * Created by Mikhail on 20.04.2018.
  */
+ 
+ 
 public class VaiantIndex {
 
     public static void main(String[] args) throws Exception {
